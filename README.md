@@ -2,9 +2,9 @@
 
 An interactive Streamlit dashboard visualizing 100+ years of change in global health and economy — inspired by Hans Rosling's iconic TED talk.
 
+![Screenshot 2025-04-06 014037](https://github.com/user-attachments/assets/d004140c-042b-41ae-9750-6ca73a929025)
 ![image](https://github.com/user-attachments/assets/bf34b508-9349-4a68-b411-2651e76a12df)
 ![Screenshot 2025-04-06 014105](https://github.com/user-attachments/assets/d8bff247-89b5-4a62-99d6-0ec2166de49f)
-![image](https://github.com/user-attachments/assets/699daab5-c361-4e44-9abd-a3591a646143)
 
 ---
 
